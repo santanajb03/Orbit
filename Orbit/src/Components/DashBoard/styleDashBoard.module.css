@@ -1,0 +1,5 @@
+.gridContainer {
+  background-color: rgb(136, 0, 209);
+  flex-grow: 1;
+  height: vh;
+}
