@@ -1,5 +1,7 @@
 .sideBarContainer {
-  background-color: purple;
-  width: 25rem;
-  min-height: 70rem;
+  background-color: rgb(56, 56, 56);
+  width: 16rem;
+  height: 100vh;
+  border: none;
+  border-right: 0.15rem solid hsl(0, 0%, 40%);
 }
